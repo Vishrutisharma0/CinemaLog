@@ -35,10 +35,15 @@ To use the project, follow these instructions:
   
 ## Screenshots
 ![ml1](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/feee469d-ab0a-4d3c-9cf6-99e9856ca4c5)
+
 ![ml2](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/33fec531-c90e-4f4c-9f7d-546b9b61eab7)
+
 ![ml3](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/9ff585e8-20f5-4394-8005-20ec3b913101)
+
 ![ml4](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/8ed08c14-b60d-40d6-b9cc-e7c5f5c67670)
+
 ![ml5](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/9391deaf-8822-4135-89c7-6d5a48a1410c)
+
 ![ml6](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/d10fc51d-2d8c-4948-983d-c0cc4a002118)
 
 
