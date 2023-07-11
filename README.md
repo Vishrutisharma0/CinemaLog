@@ -33,6 +33,9 @@ To use the project, follow these instructions:
 - Backend: Flask, Jinja2
 - Database: MongoDB
   
+## View in production
+[CinemaLog](https://cinemalog.onrender.com/)
+
 ## Screenshots
 ![ml1](https://github.com/Vishrutisharma0/CinemaLog/assets/83419687/feee469d-ab0a-4d3c-9cf6-99e9856ca4c5)
 
@@ -48,5 +51,3 @@ To use the project, follow these instructions:
 
 
 
-## View in production
-[CinemaLog](https://cinemalog.onrender.com/)
